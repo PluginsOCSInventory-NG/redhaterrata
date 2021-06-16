@@ -1,0 +1,13 @@
+{
+    "displayName" : "RedHat Errata",
+    "author" : ["Léa DROGUET"],
+    "contributor" : ["Philipp BUCK"],
+    "supportedAgent" : ["Unix"],
+    "version" : "1",
+    "licence" : "GPLv2",
+    "description" : 
+        {
+            "fr" : "Récupérer les informations sur les errata de Linux RedHat",
+            "en" : "Retrieve Linux RedHat Errata Information"
+        }
+    }
